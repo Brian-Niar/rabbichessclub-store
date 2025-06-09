@@ -1,1 +1,1 @@
-# rabbichessclub-store
+rabbichessclub.netlify.app
